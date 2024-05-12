@@ -6,7 +6,7 @@ This project is a website that emulates the appearance of a portfolio showcasing
 -**My Skills.** View my current skillset.
 -**Contact.** View the various means of contacting me. 
 
-## tecchnologies used
+## technologies used
 
 - HTML
 - CSS
